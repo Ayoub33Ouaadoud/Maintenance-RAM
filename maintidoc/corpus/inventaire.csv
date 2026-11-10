@@ -1,0 +1,21 @@
+document_id,categorie,chemin,source,description
+ram_01,document,documents/famille_1/01_ram_gold_pins_damage.pdf,10_PDFs_Articles_RAM,Pièces et contact d'or RAM
+ram_02,document,documents/famille_1/02_ram_pcb_ic_smd_damage.pdf,10_PDFs_Articles_RAM,Dommages PCB / IC SMD
+ram_03,document,documents/famille_1/03_slot_mounting_unseated.pdf,10_PDFs_Articles_RAM,Emplacement / montage non fixé
+ram_04,document,documents/famille_1/04_slot_motherboard_damage.pdf,10_PDFs_Articles_RAM,Dommages carte mère
+ram_05,document,documents/famille_1/05_motherboard_debug_led.pdf,10_PDFs_Articles_RAM,LED de diagnostic carte mère
+ram_06,document,documents/famille_1/06_motherboard_qcode_display.pdf,10_PDFs_Articles_RAM,Affichage Q-Code
+ram_07,document,documents/famille_1/07_bios_uefi_memory_alerts.pdf,10_PDFs_Articles_RAM,Alertes BIOS / UEFI mémoire
+ram_08,document,documents/famille_1/08_bsod_kernel_panic_screens.pdf,10_PDFs_Articles_RAM,Écrans BSOD / kernel panic
+ram_09,document,documents/famille_1/09_memtest_stress_test_fails.pdf,10_PDFs_Articles_RAM,Échec MemTest / stress test
+ram_10,document,documents/famille_1/10_os_memory_popups_artifacts.pdf,10_PDFs_Articles_RAM,Popups / artefacts mémoire système
+img_01,image,images/train/01_ram_gold_pins_damage/,ram_superclasses_split,Classe "gold pins damage"
+img_02,image,images/train/02_ram_pcb_ic_smd_damage/,ram_superclasses_split,Classe "PCB IC SMD damage"
+img_03,image,images/train/03_slot_mounting_unseated/,ram_superclasses_split,Classe "slot mounting unseated"
+img_04,image,images/train/04_slot_motherboard_damage/,ram_superclasses_split,Classe "motherboard damage"
+img_05,image,images/train/05_motherboard_debug_led/,ram_superclasses_split,Classe "motherboard debug led"
+img_06,image,images/train/06_motherboard_qcode_display/,ram_superclasses_split,Classe "motherboard qcode display"
+img_07,image,images/train/07_bios_uefi_memory_alerts/,ram_superclasses_split,Classe "bios uefi memory alerts"
+img_08,image,images/train/08_bsod_kernel_panic_screens/,ram_superclasses_split,Classe "bsod kernel panic screens"
+img_09,image,images/train/09_memtest_stress_test_fails/,ram_superclasses_split,Classe "memtest stress test fails"
+img_10,image,images/train/10_os_memory_popups_artifacts/,ram_superclasses_split,Classe "os memory popups artifacts"
